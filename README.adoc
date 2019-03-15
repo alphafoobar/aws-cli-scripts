@@ -1,0 +1,5 @@
+# AWS cli helper scripts
+
+## kinesis/get-record
+
+Get record is a bash script to extract the latest Kinesis record from a shard.
